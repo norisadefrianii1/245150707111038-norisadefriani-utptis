@@ -45,7 +45,7 @@ Body:
 ```json
 {
   "id": 3,
-  "name": "Keyboard",
+  "name": "Makeup",
   "price": 250000,
   "stock": 15
 }
@@ -56,7 +56,7 @@ Mengubah seluruh data produk.
 Body:
 ```json
 {
-  "name": "Laptop Gaming",
+  "name": "Cup",
   "price": 12000000,
   "stock": 5
 }

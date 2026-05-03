@@ -17,13 +17,13 @@ class ProductController extends Controller
     private $products = [
         [
             "id" => 1,
-            "name" => "Laptop",
+            "name" => "Tumblr",
             "price" => 7000000,
             "stock" => 10
         ],
         [
             "id" => 2,
-            "name" => "Mouse",
+            "name" => "Sling Bag",
             "price" => 150000,
             "stock" => 25
         ]
